@@ -1,11 +1,11 @@
 # ITGID.info
-## Get data in JavaScript
+## День - ночь на сайте JavaScript
 ### https://itgid.info
 
-Получаем данные из input, select, radio, checkbox, textarea, form на JavaScript. Учимся управлять элементами на JS
+Делаем переключатель тем ночного и дневного режима в JavaScript c LocalStorage
 ### Посмотреть видеоурок на Youtube
 https://youtu.be/1-ryNAqehm8
-[![Посмотреть видео](https://github.com/itgidinfo/dark_mode_javascript/blob/master/images/cover.png?raw=true)](https://youtu.be/TbkL329h5bg)
+[![Посмотреть видео](https://github.com/itgidinfo/dark_mode_javascript/blob/master/images/cover.png?raw=true)](https://www.youtube.com/watch?v=1-ryNAqehm8)
 
 ### Курсы ItGid.info
 
